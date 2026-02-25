@@ -1,5 +1,5 @@
 # Cpp-with-Dsa
 
-#WEEK-1 Learnings
 - Basics
 - Variable & Datatype
+- Solving some pattern printing problems
