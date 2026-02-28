@@ -11,4 +11,8 @@
 - Bitwise operator
 - Assigment operator
 
-
+# LOOPS IN C++
+- While loop
+- do-while loop
+- break
+- cointnue
