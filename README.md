@@ -16,3 +16,10 @@
 - do-while loop
 - break
 - cointnue
+
+# BINARY CONVERSION IN C++
+- Decimal to Binary
+- Binary to Decimal
+- Decimal to Octal
+- Octal to Decimal
+- Binary to Octal
