@@ -23,3 +23,9 @@
 - Decimal to Octal
 - Octal to Decimal
 - Binary to Octal
+
+# FUNCTION IN C++
+- Pass by value
+- Pass by reference
+- Swap two numbers
+
