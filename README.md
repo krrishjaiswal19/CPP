@@ -29,3 +29,7 @@
 - Pass by reference
 - Swap two numbers
 
+# ARRAY IN C++
+- Array making
+- Min element problems
+- Max element problems
