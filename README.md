@@ -33,3 +33,8 @@
 - Array making
 - Min element problems
 - Max element problems
+- Search element problems
+- Reverse array problems
+- Second maximum problems
+- Missing Array problems
+- Fibonacci series problems
