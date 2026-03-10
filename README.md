@@ -40,3 +40,4 @@
 - Fibonacci series problems
 - Selection Sort Problem
 - Buuble Sort Problem
+- Insertion Sort Problem
