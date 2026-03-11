@@ -41,3 +41,4 @@
 - Selection Sort Problem
 - Buuble Sort Problem
 - Insertion Sort Problem
+- Binary Search Problem
