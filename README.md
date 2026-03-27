@@ -47,3 +47,6 @@
 - prefix & Suffix
 - Three sum
 - Four sum
+- 2D-Array
+- Vector in 2D
+  
