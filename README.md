@@ -44,11 +44,18 @@
 - Binary Search Problem
 - Vector
 - Two pointer
-
-# String IN C++
 - prefix & Suffix
 - Three sum
 - Four sum
 - 2D-Array
 - Vector in 2D
+
+# String IN C++
+- How to use String
+- cin vs getline
+- Append operation
+- Reverse string
+- Size of string
+- String palindrone
+
   
