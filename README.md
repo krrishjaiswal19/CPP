@@ -30,6 +30,7 @@
 - Swap two numbers
 
 # ARRAY IN C++
+## Learning
 - Array making
 - Min element problems
 - Max element problems
@@ -49,6 +50,8 @@
 - Four sum
 - 2D-Array
 - Vector in 2D
+## Project
+- Student-Record-Manager
 
 # String IN C++
 - How to use String
