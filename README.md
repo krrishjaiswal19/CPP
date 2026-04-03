@@ -61,4 +61,10 @@
 - Size of string
 - String palindrone
 
+# Pointer
+- Finding address using pointer
+- Printing array using pointer
+## Project
+- Printing Array Element
+
   
