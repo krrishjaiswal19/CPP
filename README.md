@@ -64,7 +64,7 @@
 # Pointer
 - Finding address using pointer
 - Printing array using pointer
-## Project
-- Printing Array Element
+- String Toolkit mini-project
+
 
   
